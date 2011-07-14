@@ -7,7 +7,7 @@ A powershell script to launch the .sln file in the current directory or sub-dire
 Usage
 -----
 
-With a single solition...
+With a single solution...
 
 ```
 PS C:\Someproject > Sln
