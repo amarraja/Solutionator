@@ -37,6 +37,6 @@ Updating
 --------
 Goto the installation directory and run `git pull`
 
-### Installation process based on post-git:
+### Installation process based on posh-git:
 
  - https://github.com/dahlbyk/posh-git
