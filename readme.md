@@ -18,7 +18,7 @@ Or with multiple
 
 ```
 PS C:\Someproject > Sln
-Pick a solition to load:
+Pick a solution to load:
 	1. myproject.sln
 	2. myproject-release.sln
 	3. myproject-.net4.0.sln
