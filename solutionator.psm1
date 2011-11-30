@@ -14,8 +14,7 @@ function Present-Options($file_list){
 }
 
 function Sln(){
-	$files = Get-ChildItem -Recurse -Filter *.sln
-	
+	$files = @(Get-ChildItem -Recurse -Filter *.sln)
 	if ($files.Length -eq 0){
 		Write-Host "No solutions found in this directory. Bye"
 		return
